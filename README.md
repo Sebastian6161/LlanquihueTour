@@ -65,6 +65,19 @@ Resultado Esperado
 
 El programa crea tres objetos de tipo GuiaTuristico y muestra por consola la información de cada uno, incluyendo nombre, rut, dirección y especialidad mediante el método toString().
 
+## Estructura del Proyecto
+
+```text
+src
+├── app
+│   └── Main.java
+└── model
+    ├── Direccion.java
+    ├── Persona.java
+    └── GuiaTuristico.java
+```
+
+
 ---
 
 ## Autor
