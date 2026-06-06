@@ -1,8 +1,6 @@
 # LlanquihueTour
 Sistema básico de gestión para la agencia Llanquihue Tour desarrollado en Java.
 
-# LlanquihueTour
-
 ## Información General
 
 **Asignatura:** Desarrollo Orientado a Objetos I
