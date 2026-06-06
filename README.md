@@ -5,7 +5,7 @@ Sistema básico de gestión para la agencia Llanquihue Tour desarrollado en Java
 
 **Asignatura:** Desarrollo Orientado a Objetos I
 
-**Actividad Sumativa 1:** Semana 3 – Realizando validación, excepciones y relaciones entre clases
+**Actividad Sumativa: Semana 3 – Sistema básico orientado a objetos para una agencia de turismo
 
 **Alumno:** Sebastián Ignacio Ávila Sanhueza
 
