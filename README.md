@@ -61,7 +61,9 @@ La herencia permite reutilizar los atributos y métodos definidos en la clase Pe
 
 ## Resultado Esperado
 
-El programa crea tres objetos de tipo GuiaTuristico y muestra su información mediante el método toString(), incluyendo nombre, rut, dirección y especialidad.
+Resultado Esperado
+
+El programa crea tres objetos de tipo GuiaTuristico y muestra por consola la información de cada uno, incluyendo nombre, rut, dirección y especialidad mediante el método toString().
 
 ---
 
